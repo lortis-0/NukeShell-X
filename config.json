@@ -14,7 +14,7 @@
         "send_messages": 0.1,
         "dm_members": 1,
         "after_all_actions": 1,
-        "rename_member": 0.1
+        "rename_member": 0.50
     },
     "settings": {
         "num_channels_to_create": 30,
@@ -22,3 +22,4 @@
         "rename_members": true  
     }
 }
+
